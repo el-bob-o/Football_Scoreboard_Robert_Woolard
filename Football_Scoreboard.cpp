@@ -1,7 +1,8 @@
-//Dr. Tyson McMillan a Soccer Scoreboard using
-//Object Oriented Programming in C++
-//Updates 4-21-2021 - Dr_T
-//Dr_T teaching Object Oriented Scoreboard in C++
+/* Using the structure from: Dr. Tyson McMillan a Soccer Scoreboard
+Robert Woolard
+COSC 1437
+04/16/2022
+Dr. Tyson McMillan*/
 
 #include "board.h"
 
